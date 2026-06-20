@@ -9,9 +9,9 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        'primary': '#0F172A',      // Deep Navy Blue
-        'secondary': '#D4AF37',     // Gold
-        'accent': '#10B981',        // Emerald Green
+        'primary': '#0F172A',
+        'secondary': '#D4AF37',
+        'accent': '#10B981',
         'dark': {
           50: '#f9fafb',
           100: '#f3f4f6',
